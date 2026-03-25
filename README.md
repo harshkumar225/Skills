@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align"right" alt="coding img" width="400" src="<img width="680" height="428" src="https://github.com/user-attachments/assets/514b0a9b-551c-4aaf-9669-4659f4c92c4e" />
-"
+<img align="right" alt="img" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar225&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar225" /> </p>
 
